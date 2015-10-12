@@ -1,0 +1,80 @@
+.spacing {
+	padding-top:7px;
+	padding-bottom:7px;
+}
+.middlePage {
+	width: 680px;
+    height: 500px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.form-control { margin-bottom: 10px; }
+.forgot-link { text-align: right; width: 50%; display: inline-block;}
+.margintopmin5{margin-top: -5px;}
+.marleft40{margin-left: -40px; }
+/*for listing page*/
+.sideabr-content .martop45{margin-top: 45px;}
+.sideabr-content .form-horizontal .form-group{margin-left: 0px;margin-right: 0px;}
+.sideabr-content .filter-search{padding:20px;border: 1px solid #27c6db;margin-top:37px;}
+.sideabr-content h1{color: #27c6db;font-size: 30px;font-family: CenturyGothic;font-weight: bold; text-transform: uppercase;margin-bottom: 0px;}
+.sideabr-content .filterbtn {background: #27c6db;font-size: 20px;font-family: CenturyGothic; text-transform: uppercase;color:#fff;height: 40px;font-weight: bold; border-radius: 0px;border:none}
+.sideabr-content .filterbtn:hover{background-color: #a1c60c; } 
+.filter-search .form-group input{height: 42px;border: 1px solid #27c6db;font-size:16px;}
+.filter-search .form-group textarea{border: 1px solid #27c6db;font-size:16px;}
+.horizontal-strip{width: 175px;border-bottom: 1px solid #27c6db;display: inline-block}
+
+.right-content .listing_div{width: 200px;margin: 40px 0px 0px 15px; float: left;position: relative;min-height: 1px;padding-right: 15px;padding-left: 15px;}
+.right-content .listing_div .heightfix{ height: 134px !important;}
+.paginate{margin-top: 15px;}
+.paginate span{color: #27c6db;font-size: 16px;text-transform: uppercase;}
+.paginate img{display: inline;margin-left: 10px;}
+.paginate .list-view{padding: 10px; margin-top: 5px;margin-bottom: 10px;}
+.page-number li.topfit{margin-top: 5px;}
+.page-number ul.pagination li a {border: none;font-size: 16px;font-weight: bold;color: #27c6db}
+.page-number ul.pagination li a:hover{background-color: #000 !important; color: #fff !important;;} 
+.page-number ul.pagination li a.topfitminus {margin-top: -1px;}
+.paginate .theme-input{width: 75px;}
+.paginate ul li {list-style: none; float: left; height: 30px;}
+.paginate ul li span{padding-top: 7px;padding-bottom: 7px;}
+.paginate ul li select{height:30px;}
+.paginate ul.pagination{margin:0px;}
+
+.grid-div .filterbtn {background: #27c6db;font-size: 20px;font-family: CenturyGothic; text-transform: uppercase;color:#fff;height: 40px;font-weight: bold; border-radius: 0px;border:none}
+.grid-div .filterbtn:hover{background-color: #a1c60c; } 
+.grid-div .main_title{font-size: 20px;    color: #27c6db;    font-weight: bold; font-family:CenturyGothic}
+.grid-div .cat-image{display: inline-block;}
+.grid-div .person-category{margin-left: 5px;}
+.grid-div .intro_desc {margin: 15px 0px; height: 75px;overflow: hidden;}
+.grid-div .intro_desc p{font-size: 16px;}
+.grid-div .padtb12{padding: 12px 0px;}
+.grid-div .separator{height: 1px;    margin: 20px 0px;    background-color: #27c6db;}
+.grid-div .padding-info{padding:0px 20px;}
+.paddinggrid{padding: 20px 10px 10px 40px;}
+.page-number .selectBox-dropdown {
+    min-width: 100px ;
+    height: 30px;
+    line-height: 1.1;
+}
+.page-number .selectBox-dropdown .selectBox-label{
+    min-width: 40px ;
+    text-align: center;
+}
+
+@media (min-width: 990px) and (max-width: 1200px) {
+
+    
+    .grid-div .intro_desc {margin: 10px 0px; height: 60px;overflow: hidden;}
+}
+
+@media (min-width: 768px) and (max-width: 990px) {
+
+   
+
+    .container {
+        width: 870px;
+    }
+}

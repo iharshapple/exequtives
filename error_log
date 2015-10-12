@@ -1,0 +1,6 @@
+[15-Sep-2014 01:12:57] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/mahil/public_html/2014/stol/application/front/views/landing_view.php on line 155
+[15-Sep-2014 01:26:05] PHP Parse error:  syntax error, unexpected $end in /home/mahil/public_html/2014/stol/application/front/views/landing_view.php on line 468
+[15-Sep-2014 01:26:05] PHP Parse error:  syntax error, unexpected $end in /home/mahil/public_html/2014/stol/application/front/views/landing_view.php on line 468
+[15-Sep-2014 01:26:09] PHP Parse error:  syntax error, unexpected $end in /home/mahil/public_html/2014/stol/application/front/views/landing_view.php on line 468
+[15-Sep-2014 01:26:24] PHP Parse error:  syntax error, unexpected $end in /home/mahil/public_html/2014/stol/application/front/views/landing_view.php on line 468
+[15-Sep-2014 01:26:51] PHP Parse error:  syntax error, unexpected $end in /home/mahil/public_html/2014/stol/application/front/views/landing_view.php on line 467

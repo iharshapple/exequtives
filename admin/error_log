@@ -1,0 +1,330 @@
+[17-Jan-2013 06:00:42] PHP Fatal error:  Class 'Subscriber_model' not found in /home/sunil/public_html/eventapp/system/libraries/Loader.php on line 361
+[18-Jan-2013 02:01:26] PHP Fatal error:  Call to a member function getEventDataAll() on a non-object in /home/sunil/public_html/eventapp/application/admin/controllers/offer.php on line 24
+[18-Jan-2013 02:03:18] PHP Fatal error:  Call to a member function getEventDataAll() on a non-object in /home/sunil/public_html/eventapp/application/admin/controllers/offer.php on line 24
+[18-Jan-2013 02:06:23] PHP Fatal error:  Call to undefined method General_model::getAdminBreadCrumbStoreAddr() in /home/sunil/public_html/eventapp/application/admin/views/event_offer_view.php on line 137
+[18-Jan-2013 03:06:37] PHP Fatal error:  Call to undefined method General_model::getAdminBreadCrumbStoreAddr() in /home/sunil/public_html/eventapp/application/admin/views/event_offer_view.php on line 137
+[18-Jan-2013 03:12:22] PHP Fatal error:  Call to a member function getEventNameByID() on a non-object in /home/sunil/public_html/eventapp/application/admin/views/event_offer_view.php on line 141
+[18-Jan-2013 03:19:27] PHP Fatal error:  Call to a member function getEventNameByID() on a non-object in /home/sunil/public_html/eventapp/application/admin/views/event_offer_view.php on line 141
+[18-Jan-2013 03:20:13] PHP Fatal error:  Call to a member function getEventNameByID() on a non-object in /home/sunil/public_html/eventapp/application/admin/views/event_offer_view.php on line 141
+[18-Jan-2013 05:20:22] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/eventapp/application/admin/views/offer_add_view.php on line 160
+[18-Jan-2013 06:17:37] PHP Fatal error:  Call to undefined function  form_text() in /home/sunil/public_html/eventapp/application/admin/views/offer_add_view.php on line 189
+[18-Jan-2013 06:21:12] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/sunil/public_html/eventapp/application/admin/controllers/offer.php on line 122
+[18-Jan-2013 07:46:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sunil/public_html/eventapp/application/admin/controllers/offer.php on line 211
+[18-Jan-2013 07:57:39] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sunil/public_html/eventapp/application/admin/controllers/offer.php on line 211
+[18-Jan-2013 08:01:20] PHP Fatal error:  Cannot redeclare Offer_model::editOffer() in /home/sunil/public_html/eventapp/application/admin/models/offer_model.php on line 134
+[18-Jan-2013 08:02:39] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sunil/public_html/eventapp/application/admin/views/offer_edit_view.php on line 31
+[22-Jan-2013 04:55:45] PHP Fatal error:  Call to undefined function  alert() in /home/sunil/public_html/eventapp/application/admin/controllers/offer.php on line 174
+[22-Jan-2013 05:01:51] PHP Fatal error:  Call to undefined function  alert() in /home/sunil/public_html/eventapp/application/admin/views/event_offer_view.php on line 111
+[23-Jan-2013 03:18:00] PHP Fatal error:  Call to a member function model() on a non-object in /home/sunil/public_html/eventapp/application/admin/controllers/offer_used.php on line 7
+[23-Jan-2013 03:19:03] PHP Parse error:  syntax error, unexpected ':' in /home/sunil/public_html/eventapp/application/admin/controllers/offer_used.php on line 7
+[23-Jan-2013 03:45:41] PHP Fatal error:  Call to a member function getOfferDataAll() on a non-object in /home/sunil/public_html/eventapp/application/admin/controllers/offer_used.php on line 27
+[23-Jan-2013 04:28:49] PHP Fatal error:  Call to a member function getUserNameByID() on a non-object in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 69
+[23-Jan-2013 04:49:58] PHP Fatal error:  Call to undefined method User_model::get_where() in /home/sunil/public_html/eventapp/application/admin/models/user_model.php on line 263
+[23-Jan-2013 04:56:16] PHP Fatal error:  Call to undefined method User_model::get_where() in /home/sunil/public_html/eventapp/application/admin/models/user_model.php on line 263
+[23-Jan-2013 04:56:28] PHP Fatal error:  Call to undefined method Offer_model::getOfferDesByID() in /home/sunil/public_html/eventapp/application/admin/controllers/offer_used.php on line 41
+[23-Jan-2013 05:27:09] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 77
+[23-Jan-2013 05:28:17] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 71
+[23-Jan-2013 05:28:20] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 71
+[23-Jan-2013 05:28:22] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 71
+[23-Jan-2013 05:28:32] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 77
+[23-Jan-2013 05:32:16] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 71
+[23-Jan-2013 05:32:18] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 71
+[23-Jan-2013 05:32:41] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 80
+[23-Jan-2013 05:43:47] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 79
+[23-Jan-2013 05:43:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 79
+[23-Jan-2013 05:44:14] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 79
+[23-Jan-2013 05:44:15] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 79
+[23-Jan-2013 05:44:16] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sunil/public_html/eventapp/application/admin/views/availed_offer_view.php on line 79
+[23-Jan-2013 06:47:42] PHP Fatal error:  Call to a member function addEvent() on a non-object in /home/sunil/public_html/eventapp/application/admin/controllers/promoter.php on line 127
+[23-Jan-2013 07:29:43] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/sunil/public_html/eventapp/application/admin/controllers/promoter.php on line 286
+[23-Jan-2013 07:50:39] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/sunil/public_html/eventapp/application/admin/controllers/photographer.php on line 148
+[23-Jan-2013 08:02:32] PHP Fatal error:  Call to a member function editPhotographer() on a non-object in /home/sunil/public_html/eventapp/application/admin/controllers/photographer.php on line 295
+[23-Jan-2013 23:15:46] PHP Parse error:  syntax error, unexpected '<' in /home/sunil/public_html/eventapp/application/admin/views/user_add_view.php on line 377
+[24-Jan-2013 04:53:38] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sunil/public_html/blackapp/application/admin/views/event_add_view.php on line 185
+[24-Jan-2013 04:54:08] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sunil/public_html/blackapp/application/admin/views/event_add_view.php on line 185
+[24-Jan-2013 04:54:30] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sunil/public_html/blackapp/application/admin/views/event_add_view.php on line 185
+[24-Jan-2013 22:50:29] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/blackapp/application/admin/views/availed_offer_view.php on line 71
+[25-Jan-2013 00:44:37] PHP Fatal error:  Call to undefined function  query_to_csv() in /home/sunil/public_html/blackapp/application/admin/controllers/offer_used.php on line 60
+[25-Jan-2013 00:54:35] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/sunil/public_html/blackapp/application/admin/models/promocode_model.php on line 42
+[25-Jan-2013 00:54:39] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/sunil/public_html/blackapp/application/admin/models/promocode_model.php on line 42
+[25-Jan-2013 01:07:33] PHP Fatal error:  Call to a member function getEventNameByID() on a non-object in /home/sunil/public_html/blackapp/application/admin/views/availed_offer_view.php on line 37
+[25-Jan-2013 01:54:26] PHP Fatal error:  Call to a member function model() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/photo_gallery.php on line 7
+[25-Jan-2013 03:26:49] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/sunil/public_html/blackapp/application/admin/models/photos_model.php on line 9
+[25-Jan-2013 04:45:17] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/sunil/public_html/blackapp/application/admin/views/photo_gallery_view.php on line 58
+[26-Jan-2013 00:59:21] PHP Parse error:  syntax error, unexpected ')' in /home/sunil/public_html/blackapp/application/admin/models/photos_model.php on line 13
+[28-Jan-2013 03:22:27] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sunil/public_html/blackapp/application/admin/views/photo_gallery_view.php on line 68
+[28-Jan-2013 03:42:14] PHP Fatal error:  Call to undefined function  last_query() in /home/sunil/public_html/blackapp/application/admin/models/photos_model.php on line 26
+[28-Jan-2013 05:18:49] PHP Parse error:  syntax error, unexpected T_VAR in /home/sunil/public_html/blackapp/application/admin/views/photo_gallery_view.php on line 108
+[28-Jan-2013 05:19:16] PHP Parse error:  syntax error, unexpected T_VAR in /home/sunil/public_html/blackapp/application/admin/views/photo_gallery_view.php on line 111
+[28-Jan-2013 05:20:55] PHP Parse error:  syntax error, unexpected T_VAR in /home/sunil/public_html/blackapp/application/admin/views/photo_gallery_view.php on line 111
+[28-Jan-2013 05:21:47] PHP Parse error:  syntax error, unexpected T_VAR in /home/sunil/public_html/blackapp/application/admin/views/photo_gallery_view.php on line 111
+[28-Jan-2013 05:24:48] PHP Parse error:  syntax error, unexpected T_VAR in /home/sunil/public_html/blackapp/application/admin/views/photo_gallery_view.php on line 108
+[28-Jan-2013 06:56:28] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/sunil/public_html/blackapp/application/admin/models/photos_model.php on line 45
+[28-Jan-2013 06:59:46] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/sunil/public_html/blackapp/application/admin/models/photos_model.php on line 51
+[28-Jan-2013 07:00:49] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/sunil/public_html/blackapp/application/admin/models/photos_model.php on line 51
+[28-Jan-2013 23:20:34] PHP Notice:  Constant EVENT_IMAGE_PATH already defined in /home/sunil/public_html/blackapp/application/admin/config/constants.php on line 1249
+[22-Feb-2013 01:25:43] PHP Parse error:  syntax error, unexpected T_ECHO in /home/sunil/public_html/blackapp/application/admin/views/availed_offer_view.php on line 87
+[25-Feb-2013 23:13:49] PHP Fatal error:  Cannot redeclare Photographer::status() in /home/sunil/public_html/blackapp/application/admin/controllers/photographer.php on line 334
+[25-Feb-2013 23:15:15] PHP Fatal error:  Cannot redeclare Photographer_model::changePhotographerStatus() in /home/sunil/public_html/blackapp/application/admin/models/photographer_model.php on line 253
+[25-Feb-2013 23:16:09] PHP Fatal error:  Class 'Photographer_model' not found in /home/sunil/public_html/blackapp/system/libraries/Loader.php on line 361
+[25-Feb-2013 23:24:54] PHP Fatal error:  Call to undefined method CI_Session::set_promoterdata() in /home/sunil/public_html/blackapp/application/admin/controllers/promoter.php on line 33
+[25-Feb-2013 23:48:24] PHP Parse error:  syntax error, unexpected T_ECHO in /home/sunil/public_html/blackapp/application/admin/views/promoter_view.php on line 68
+[26-Feb-2013 01:21:03] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sunil/public_html/blackapp/application/admin/controllers/promoter.php on line 425
+[26-Feb-2013 01:22:54] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sunil/public_html/blackapp/application/admin/controllers/promoter.php on line 426
+[26-Feb-2013 01:27:38] PHP Fatal error:  Call to undefined function  getpromoterdatabyid() in /home/sunil/public_html/blackapp/application/admin/controllers/promoter.php on line 253
+[26-Feb-2013 01:44:22] PHP Fatal error:  Call to a member function getPromoterDataById() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/promoter.php on line 222
+[01-Mar-2013 23:51:09] PHP Fatal error:  Call to undefined method Admin_model::getArtistDataById() in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 160
+[01-Mar-2013 23:57:46] PHP Fatal error:  Call to a member function checkArtistCount() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 179
+[01-Mar-2013 23:58:31] PHP Fatal error:  Call to a member function checkArtistCount() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 179
+[02-Mar-2013 00:05:09] PHP Fatal error:  Call to a member function checkArtistCount() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 179
+[02-Mar-2013 00:05:45] PHP Fatal error:  Call to undefined method Artist_model::checkArtistCount() in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 180
+[02-Mar-2013 00:10:20] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 148
+[02-Mar-2013 01:59:43] PHP Fatal error:  Call to undefined function  redirectt() in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 183
+[02-Mar-2013 02:04:17] PHP Fatal error:  Call to undefined method Artist_model::getAllArtist() in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 23
+[02-Mar-2013 02:04:58] PHP Fatal error:  Call to undefined function  redirectt() in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 183
+[03-Mar-2013 22:33:14] PHP Fatal error:  Call to undefined method Artist::uri_segment() in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 38
+[04-Mar-2013 01:25:15] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/sunil/public_html/blackapp/application/admin/controllers/artist.php on line 242
+[06-Mar-2013 04:54:01] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/sunil/public_html/blackapp/application/admin/views/gallery_add_view.php on line 71
+[06-Mar-2013 06:16:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/sunil/public_html/blackapp/application/admin/controllers/photo_gallery.php on line 123
+[06-Mar-2013 06:34:49] PHP Fatal error:  Call to a member function add() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/photo_gallery.php on line 126
+[06-Mar-2013 07:01:09] PHP Parse error:  syntax error, unexpected '/' in /home/sunil/public_html/blackapp/application/admin/controllers/photo_gallery.php on line 123
+[06-Mar-2013 07:19:30] PHP Fatal error:  Call to undefined method stdClass::Process() in /home/sunil/public_html/blackapp/application/admin/controllers/photo_gallery.php on line 132
+[09-Mar-2013 01:44:24] PHP Fatal error:  Call to undefined method Event_model::getCurrencySymbool() in /home/sunil/public_html/blackapp/application/admin/views/event_offer_view.php on line 118
+[11-Mar-2013 00:25:12] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/event.php on line 293
+[11-Mar-2013 01:06:47] PHP Fatal error:  Call to undefined method upload::do_upload() in /home/sunil/public_html/blackapp/application/admin/controllers/event.php on line 297
+[11-Mar-2013 01:19:41] PHP Fatal error:  Call to a member function addEvent() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/event.php on line 213
+[11-Mar-2013 04:42:07] PHP Fatal error:  Call to undefined method CI_Image_lib::fit() in /home/sunil/public_html/blackapp/application/admin/controllers/event.php on line 391
+[12-Mar-2013 01:36:23] PHP Fatal error:  Call to undefined method Promoter_model::getEvents() in /home/sunil/public_html/blackapp/application/admin/models/promoter_model.php on line 116
+[12-Mar-2013 01:43:57] PHP Fatal error:  Call to undefined method Promoter_model::getPhotos() in /home/sunil/public_html/blackapp/application/admin/models/promoter_model.php on line 141
+[12-Mar-2013 02:57:49] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/sunil/public_html/blackapp/application/admin/controllers/offer.php on line 257
+[01-Apr-2013 02:52:57] PHP Fatal error:  Call to undefined method Dashboard_model::getNumsOfTodayStations() in /home/sunil/public_html/servicestation/application/admin/views/dashboard_view.php on line 67
+[01-Apr-2013 04:40:38] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::last_quesy() in /home/sunil/public_html/servicestation/application/admin/models/admin_model.php on line 652
+[01-Apr-2013 07:50:19] PHP Parse error:  syntax error, unexpected T_ELSE in /home/sunil/public_html/servicestation/application/admin/controllers/service.php on line 243
+[01-Apr-2013 08:26:17] PHP Fatal error:  Call to undefined method Service_model::addService() in /home/sunil/public_html/servicestation/application/admin/controllers/service.php on line 206
+[01-Apr-2013 08:28:00] PHP Fatal error:  Call to undefined method Service_model::addService() in /home/sunil/public_html/servicestation/application/admin/controllers/service.php on line 206
+[01-Apr-2013 09:01:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/sunil/public_html/servicestation/application/admin/controllers/service.php on line 231
+[02-Apr-2013 00:03:29] PHP Parse error:  syntax error, unexpected '<' in /home/sunil/public_html/servicestation/application/admin/views/service_view.php on line 64
+[02-Apr-2013 01:17:34] PHP Fatal error:  Class 'Service_model' not found in /home/sunil/public_html/servicestation/system/libraries/Loader.php on line 184
+[02-Apr-2013 01:30:46] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/sunil/public_html/servicestation/application/admin/views/service_add_view.php on line 202
+[13-Nov-2013 05:16:39] PHP Fatal error:  Class 'MY_Controller' not found in /home/sunil/public_html/ca7ch/application/admin/controllers/admin.php on line 3
+[13-Nov-2013 05:16:45] PHP Fatal error:  Class 'MY_Controller' not found in /home/sunil/public_html/ca7ch/application/admin/controllers/admin.php on line 3
+[13-Nov-2013 05:19:05] PHP Fatal error:  Call to a member function getAdminDataById() on a non-object in /home/sunil/public_html/ca7ch/application/admin/controllers/admin.php on line 160
+[13-Nov-2013 05:19:57] PHP Fatal error:  Class 'Model' not found in /home/sunil/public_html/ca7ch/application/admin/models/admin_model.php on line 5
+[13-Nov-2013 06:05:29] PHP Fatal error:  Class 'MY_Controller' not found in /home/sunil/public_html/ca7ch/application/admin/controllers/login.php on line 3
+[13-Nov-2013 06:12:11] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/config/constants.php on line 163
+[13-Nov-2013 06:16:39] PHP Fatal error:  Call to a member function login_check() on a non-object in /home/sunil/public_html/ca7ch/application/admin/controllers/login.php on line 27
+[13-Nov-2013 06:18:42] PHP Fatal error:  Call to a member function admin_model() on a non-object in /home/sunil/public_html/ca7ch/application/admin/controllers/login.php on line 14
+[13-Nov-2013 06:25:55] PHP Fatal error:  Call to undefined method Dashboard_model::getNumsOfCategory() in /home/sunil/public_html/ca7ch/application/admin/views/dashboard_view.php on line 94
+[13-Nov-2013 06:27:20] PHP Fatal error:  Call to undefined method Dashboard_model::getNumsOfCategory() in /home/sunil/public_html/ca7ch/application/admin/views/dashboard_view.php on line 94
+[13-Nov-2013 06:27:41] PHP Fatal error:  Call to undefined method Dashboard_model::getNumsOfCategory() in /home/sunil/public_html/ca7ch/application/admin/views/dashboard_view.php on line 94
+[13-Nov-2013 07:02:56] PHP Fatal error:  Class 'Controller' not found in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 2
+[13-Nov-2013 07:03:01] PHP Fatal error:  Class 'Controller' not found in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 2
+[13-Nov-2013 07:04:10] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 9
+[13-Nov-2013 07:04:33] PHP Fatal error:  Call to undefined function  parent__construct() in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 9
+[13-Nov-2013 07:05:35] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 35
+[13-Nov-2013 07:06:57] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 35
+[13-Nov-2013 07:10:11] PHP Fatal error:  Call to a member function all_userdata() on a non-object in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 34
+[13-Nov-2013 07:14:46] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 35
+[13-Nov-2013 07:14:53] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 35
+[13-Nov-2013 07:15:14] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 35
+[13-Nov-2013 07:23:22] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 36
+[13-Nov-2013 07:25:57] PHP Fatal error:  Call to a member function chk_cookie() on a non-object in /home/sunil/public_html/ca7ch/application/admin/libraries/MY_Controller.php on line 51
+[13-Nov-2013 07:29:40] PHP Fatal error:  Call to a member function chk_cookie() on a non-object in /home/sunil/public_html/ca7ch/application/admin/models/admin_model.php on line 61
+[13-Nov-2013 07:29:50] PHP Fatal error:  Call to a member function chk_cookie() on a non-object in /home/sunil/public_html/ca7ch/application/admin/models/admin_model.php on line 61
+[13-Nov-2013 07:30:59] PHP Fatal error:  Call to a member function chk_cookie() on a non-object in /home/sunil/public_html/ca7ch/application/admin/models/admin_model.php on line 61
+[13-Nov-2013 07:31:09] PHP Fatal error:  Call to a member function chk_cookie() on a non-object in /home/sunil/public_html/ca7ch/application/admin/models/admin_model.php on line 61
+[13-Nov-2013 07:32:41] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/sunil/public_html/ca7ch/application/admin/models/admin_model.php on line 545
+[13-Nov-2013 07:32:47] PHP Fatal error:  Call to undefined method CI_Lang::switch_to() in /home/sunil/public_html/ca7ch/application/admin/models/admin_model.php on line 25
+[13-Nov-2013 07:32:55] PHP Fatal error:  Call to undefined method CI_Lang::switch_to() in /home/sunil/public_html/ca7ch/application/admin/models/admin_model.php on line 25
+[14-Nov-2013 03:25:26] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 80
+[14-Nov-2013 03:25:29] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 80
+[14-Nov-2013 03:27:34] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 80
+[14-Nov-2013 04:37:32] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 68
+[14-Nov-2013 04:37:32] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 68
+[14-Nov-2013 05:55:42] PHP Fatal error:  Call to undefined method CI_Lang::switch_to() in /home/sunil/public_html/ca7ch/application/admin/controllers/forgot_pass.php on line 23
+[14-Nov-2013 05:56:56] PHP Fatal error:  Call to undefined method CI_Lang::switch_to() in /home/sunil/public_html/ca7ch/application/admin/controllers/forgot_pass.php on line 23
+[15-Nov-2013 04:04:41] PHP Parse error:  syntax error, unexpected T_IF in /home/sunil/public_html/ca7ch/application/admin/controllers/user.php on line 91
+[15-Nov-2013 04:04:44] PHP Parse error:  syntax error, unexpected T_IF in /home/sunil/public_html/ca7ch/application/admin/controllers/user.php on line 91
+[15-Nov-2013 04:38:36] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 71
+[15-Nov-2013 05:27:08] PHP Fatal error:  Call to undefined method User_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/user.php on line 175
+[15-Nov-2013 05:28:44] PHP Fatal error:  Call to undefined method User_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/user.php on line 175
+[15-Nov-2013 05:34:44] PHP Fatal error:  Call to undefined method User_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/user.php on line 175
+[15-Nov-2013 07:14:16] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 49
+[15-Nov-2013 07:14:22] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 49
+[15-Nov-2013 07:14:33] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 49
+[15-Nov-2013 07:16:57] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 201
+[15-Nov-2013 07:17:27] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 76
+[15-Nov-2013 07:17:27] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 76
+[17-Nov-2013 23:20:41] PHP Parse error:  syntax error, unexpected '}' in /home/sunil/public_html/ca7ch/application/admin/models/general_model.php on line 82
+[17-Nov-2013 23:44:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '$' in /home/sunil/public_html/ca7ch/application/admin/models/user_model.php on line 101
+[17-Nov-2013 23:44:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '$' in /home/sunil/public_html/ca7ch/application/admin/models/user_model.php on line 101
+[17-Nov-2013 23:45:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '$' in /home/sunil/public_html/ca7ch/application/admin/models/user_model.php on line 101
+[18-Nov-2013 00:26:28] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/views/user/user_add_view.php on line 202
+[20-Nov-2013 03:09:22] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 73
+[20-Nov-2013 03:12:07] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/models/general_model.php on line 86
+[20-Nov-2013 04:22:14] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 31
+[20-Nov-2013 06:21:49] PHP Parse error:  syntax error, unexpected '?' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 2
+[20-Nov-2013 06:22:07] PHP Fatal error:  Call to undefined function  __() in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 2
+[20-Nov-2013 06:22:10] PHP Fatal error:  Call to undefined function  __() in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 2
+[20-Nov-2013 06:22:45] PHP Fatal error:  Call to undefined function  __cxfdsfds() in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 2
+[20-Nov-2013 06:24:34] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 33
+[20-Nov-2013 06:41:59] PHP Fatal error:  Call to undefined method Event_model::getUserDataAll() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 12
+[20-Nov-2013 06:42:29] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/models/event_model.php on line 59
+[20-Nov-2013 06:56:45] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 123
+[20-Nov-2013 22:55:33] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/libraries/headerlib.php on line 65
+[20-Nov-2013 22:58:28] PHP Warning:  Unterminated comment starting line 284 in /home/sunil/public_html/ca7ch/application/admin/libraries/headerlib.php on line 284
+[20-Nov-2013 22:58:28] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/sunil/public_html/ca7ch/application/admin/libraries/headerlib.php on line 284
+[21-Nov-2013 00:10:21] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 33
+[21-Nov-2013 00:10:30] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 33
+[21-Nov-2013 03:09:29] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 123
+[21-Nov-2013 03:42:07] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 64
+[21-Nov-2013 03:42:07] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 64
+[21-Nov-2013 03:47:30] PHP Parse error:  syntax error, unexpected ',' in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 134
+[21-Nov-2013 03:47:33] PHP Parse error:  syntax error, unexpected ',' in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 134
+[21-Nov-2013 03:48:25] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 79
+[21-Nov-2013 03:48:25] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 79
+[21-Nov-2013 03:52:06] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 123
+[21-Nov-2013 03:59:09] PHP Parse error:  syntax error, unexpected '.' in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 140
+[21-Nov-2013 03:59:11] PHP Parse error:  syntax error, unexpected '.' in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 140
+[21-Nov-2013 03:59:31] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 82
+[21-Nov-2013 05:20:21] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 131
+[21-Nov-2013 05:21:04] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 131
+[21-Nov-2013 05:27:52] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 131
+[21-Nov-2013 05:29:29] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 131
+[21-Nov-2013 05:36:56] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 134
+[21-Nov-2013 05:39:03] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 86
+[21-Nov-2013 05:40:23] PHP Fatal error:  Function name must be a string in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 79
+[21-Nov-2013 05:41:26] PHP Fatal error:  Function name must be a string in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 79
+[21-Nov-2013 06:07:08] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 86
+[21-Nov-2013 06:36:24] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/sunil/public_html/ca7ch/application/admin/models/event_model.php on line 178
+[21-Nov-2013 06:39:39] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/sunil/public_html/ca7ch/application/admin/models/event_model.php on line 190
+[21-Nov-2013 06:43:01] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 146
+[21-Nov-2013 06:45:17] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 146
+[21-Nov-2013 06:50:58] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 155
+[21-Nov-2013 06:51:02] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 155
+[21-Nov-2013 06:51:31] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_add_view.php on line 155
+[21-Nov-2013 06:52:18] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 146
+[21-Nov-2013 06:55:17] PHP Fatal error:  Call to undefined method Event_model::get_paginationresult() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 146
+[21-Nov-2013 07:06:56] PHP Fatal error:  Call to undefined method Event_model::changeUserStatus() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 26
+[21-Nov-2013 07:15:22] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 82
+[21-Nov-2013 07:18:00] PHP Fatal error:  Call to undefined method Event_model::removeUser() in /home/sunil/public_html/ca7ch/application/admin/controllers/event.php on line 136
+[22-Nov-2013 06:05:45] PHP Fatal error:  Call to undefined function  query() in /home/sunil/public_html/ca7ch/application/admin/models/event_model.php on line 215
+[22-Nov-2013 06:07:38] PHP Parse error:  syntax error, unexpected $end in /home/sunil/public_html/ca7ch/application/admin/models/event_model.php on line 117
+[24-Nov-2013 22:55:11] PHP Parse error:  syntax error, unexpected T_STRING in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 189
+[24-Nov-2013 22:55:13] PHP Parse error:  syntax error, unexpected T_STRING in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 189
+[24-Nov-2013 23:42:09] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 191
+[24-Nov-2013 23:43:00] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 191
+[24-Nov-2013 23:43:03] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 191
+[24-Nov-2013 23:43:50] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 191
+[24-Nov-2013 23:43:52] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 191
+[24-Nov-2013 23:47:02] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 189
+[24-Nov-2013 23:47:05] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 189
+[24-Nov-2013 23:47:22] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 189
+[24-Nov-2013 23:47:27] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 189
+[24-Nov-2013 23:47:29] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 189
+[24-Nov-2013 23:50:05] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 191
+[24-Nov-2013 23:50:07] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/ca7ch/application/admin/views/events/event_view.php on line 191
+[25-Nov-2013 01:47:40] PHP Fatal error:  Call to a member function get_paginationresult() on a non-object in /home/sunil/public_html/ca7ch/application/admin/controllers/comment.php on line 59
+[25-Nov-2013 01:49:18] PHP Fatal error:  Call to a member function get_paginationresult() on a non-object in /home/sunil/public_html/ca7ch/application/admin/controllers/comment.php on line 59
+[25-Nov-2013 01:49:28] PHP Fatal error:  Call to a member function get_paginationresult() on a non-object in /home/sunil/public_html/ca7ch/application/admin/controllers/comment.php on line 59
+[25-Nov-2013 01:50:01] PHP Fatal error:  Call to a member function get_paginationresult() on a non-object in /home/sunil/public_html/ca7ch/application/admin/controllers/comment.php on line 59
+[25-Nov-2013 04:05:15] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/sunil/public_html/ca7ch/application/admin/views/comment/comment_view.php on line 73
+[25-Nov-2013 05:55:39] PHP Fatal error:  Call to undefined method Photograph_model::getPhotographDataAll() in /home/sunil/public_html/ca7ch/application/admin/controllers/photograph.php on line 14
+[25-Nov-2013 05:56:16] PHP Fatal error:  Call to undefined method Photograph_model::getPhotographDataAll() in /home/sunil/public_html/ca7ch/application/admin/controllers/photograph.php on line 14
+[25-Nov-2013 06:51:06] PHP Fatal error:  Call to undefined method Photograph_model::changePhotographStatus() in /home/sunil/public_html/ca7ch/application/admin/controllers/photograph.php on line 28
+[12-Dec-2013 07:37:12] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/ca7ch/application/admin/views/dashboard_view.php on line 77
+[12-Dec-2013 07:37:30] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/ca7ch/application/admin/views/dashboard_view.php on line 77
+[12-Dec-2013 07:37:34] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/ca7ch/application/admin/views/dashboard_view.php on line 77
+[12-Dec-2013 07:37:54] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/ca7ch/application/admin/views/dashboard_view.php on line 103
+[12-Dec-2013 07:37:56] PHP Parse error:  syntax error, unexpected ';' in /home/sunil/public_html/ca7ch/application/admin/views/dashboard_view.php on line 103
+[12-May-2014 08:33:59] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:33:59] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:33:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:33:59] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:33:59] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:33:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:33:59] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:33:59] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:33:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:35:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include(../application/admin/errors/error_php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[12-May-2014 08:39:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../application/admin/errors/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahil/public_html/2014/selfie/system/core/Exceptions.php on line 182
+[13-May-2014 08:28:04] PHP Fatal error:  Cannot redeclare Category_model::remove() in /home/mahil/public_html/2014/selfie/application/admin/models/category_model.php on line 110
+[13-May-2014 08:28:08] PHP Fatal error:  Cannot redeclare Category_model::remove() in /home/mahil/public_html/2014/selfie/application/admin/models/category_model.php on line 110
+[21-Aug-2014 00:27:14] PHP Parse error:  syntax error, unexpected $end in /home/mahil/public_html/2014/stol/application/admin/controllers/out_management.php on line 269
+[26-Aug-2014 06:20:02] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/mahil/public_html/2014/stol/application/admin/controllers/out_management.php on line 94
+[02-Sep-2014 04:18:28] PHP Parse error:  syntax error, unexpected $end in /home/mahil/public_html/2014/stol/application/admin/controllers/res_management.php on line 476
+[10-Sep-2014 07:59:12] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/mahil/public_html/2014/stol/application/admin/controllers/item.php on line 89
+[10-Sep-2014 08:53:00] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ')' in /home/mahil/public_html/2014/stol/application/admin/views/item_add_view.php on line 101
+[23-Sep-2014 01:28:11] PHP Parse error:  syntax error, unexpected ')' in /home/mahil/public_html/2014/stol/application/admin/controllers/bonuspoint.php on line 183
+[23-Sep-2014 02:44:21] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/mahil/public_html/2014/stol/application/admin/controllers/bonuspoint.php on line 150
+[23-Sep-2014 02:48:18] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/mahil/public_html/2014/stol/application/admin/controllers/bonuspoint.php on line 148
+[23-Sep-2014 02:48:24] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/mahil/public_html/2014/stol/application/admin/controllers/bonuspoint.php on line 148
+[23-Sep-2014 02:48:26] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/mahil/public_html/2014/stol/application/admin/controllers/bonuspoint.php on line 148
+[23-Sep-2014 02:48:29] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/mahil/public_html/2014/stol/application/admin/controllers/bonuspoint.php on line 148
+[24-Sep-2014 01:10:13] PHP Parse error:  syntax error, unexpected '{' in /home/mahil/public_html/2014/stol/application/admin/controllers/coupon.php on line 179
+[24-Sep-2014 01:10:49] PHP Parse error:  syntax error, unexpected ',' in /home/mahil/public_html/2014/stol/application/admin/controllers/coupon.php on line 178
+[24-Sep-2014 01:11:47] PHP Parse error:  syntax error, unexpected ',' in /home/mahil/public_html/2014/stol/application/admin/controllers/coupon.php on line 178
+[30-Sep-2014 05:08:49] PHP Fatal error:  Class 'Dashboard_model' not found in /home/mahil/public_html/2014/stol/system/core/Loader.php on line 303
+[02-Oct-2014 04:55:00] PHP Fatal error:  Call to undefined method Dashboard_model::getnameofoutlet() in /home/mahil/public_html/2014/stol/application/admin/controllers/dashboard.php on line 26
+[11-Oct-2014 03:51:05] PHP Parse error:  syntax error, unexpected ':' in /home/mahil/public_html/2014/stol/application/admin/helpers/pdf_helper.php on line 3
+[11-Oct-2014 03:51:12] PHP Parse error:  syntax error, unexpected ':' in /home/mahil/public_html/2014/stol/application/admin/helpers/pdf_helper.php on line 3
+[11-Oct-2014 03:51:35] PHP Parse error:  syntax error, unexpected ':' in /home/mahil/public_html/2014/stol/application/admin/helpers/pdf_helper.php on line 3
+[11-Oct-2014 03:52:31] PHP Parse error:  syntax error, unexpected ':' in /home/mahil/public_html/2014/stol/application/admin/helpers/pdf_helper.php on line 3
+[11-Oct-2014 03:52:34] PHP Parse error:  syntax error, unexpected ':' in /home/mahil/public_html/2014/stol/application/admin/helpers/pdf_helper.php on line 3
+[11-Oct-2014 03:53:25] PHP Parse error:  syntax error, unexpected ':' in /home/mahil/public_html/2014/stol/application/admin/helpers/pdf_helper.php on line 3
+[11-Oct-2014 03:56:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/create_pdf/order_pdf.php on line 28
+[11-Oct-2014 03:58:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/create_pdf/order_pdf.php on line 28
+[11-Oct-2014 04:13:13] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/create_pdf/order_pdf.php on line 28
+[11-Oct-2014 06:14:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/mahil/public_html/2014/stol/application/admin/controllers/order.php on line 115
+[11-Oct-2014 06:14:17] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/mahil/public_html/2014/stol/application/admin/controllers/order.php on line 115
+[11-Oct-2014 06:42:44] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/create_pdf/order_pdf.php on line 27
+[11-Oct-2014 06:50:26] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/create_pdf/order_pdf.php on line 27
+[11-Oct-2014 06:50:29] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/create_pdf/order_pdf.php on line 27
+[11-Oct-2014 06:50:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/create_pdf/order_pdf.php on line 27
+[11-Oct-2014 07:05:59] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/order_pdf.php on line 27
+[11-Oct-2014 07:06:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/order_pdf.php on line 27
+[11-Oct-2014 07:07:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'tcpdf/tcpdf_include.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/order_pdf.php on line 27
+[11-Oct-2014 07:12:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mahil/public_html/2014/stol/application/admin/controllers/order.php on line 44
+[11-Oct-2014 07:12:36] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mahil/public_html/2014/stol/application/admin/controllers/order.php on line 44
+[11-Oct-2014 07:12:53] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mahil/public_html/2014/stol/application/admin/controllers/order.php on line 44
+[11-Oct-2014 07:14:48] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:16:41] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:16:58] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:23:55] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:32:02] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:32:05] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:32:08] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:32:10] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:32:12] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:32:24] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 30
+[11-Oct-2014 07:36:55] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[11-Oct-2014 07:51:53] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[11-Oct-2014 07:57:55] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[11-Oct-2014 07:58:11] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[11-Oct-2014 09:00:12] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[12-Oct-2014 03:43:54] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[12-Oct-2014 22:25:34] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[12-Oct-2014 22:42:47] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[13-Oct-2014 00:27:17] PHP Fatal error:  Class 'TCPDF' not found in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf/examples/order_pdf.php on line 29
+[13-Oct-2014 03:29:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config/tcpdf_config_alt.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf_include.php on line 27
+[13-Oct-2014 03:30:08] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config/tcpdf_config_alt.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf_include.php on line 27
+[13-Oct-2014 03:30:42] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config/tcpdf_config_alt.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf_include.php on line 27
+[13-Oct-2014 03:30:50] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config/tcpdf_config_alt.php' (include_path='.:/opt/php52/lib/php') in /home/mahil/public_html/2014/stol/application/admin/views/tcpdf_include.php on line 27
+[13-Oct-2014 03:50:43] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/mahil/public_html/2014/stol/application/admin/views/order_pdf.php on line 313
+[13-Oct-2014 03:51:09] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/mahil/public_html/2014/stol/application/admin/views/order_pdf.php on line 313
