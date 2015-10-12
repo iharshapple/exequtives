@@ -12,7 +12,9 @@ class Profile extends CI_Controller {
         $this->load->view('profile/index');
     }
 
-    
+    function edit(){
+        
+    }
 
 }
 
